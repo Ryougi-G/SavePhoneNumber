@@ -1,0 +1,6 @@
+AccountNumbers:
+AccountFiles:XXX.tnaccount|XXX2.tnaccount
+TimeToExcuteTasks:1|1|1|1 #每过一天一小时一分钟一秒后执行一次，实际上最后是累加为秒数，所以说天时分秒四个单位只要大于零即可
+UseProxy:true #true为使用代理，false为不使用代理
+ProxyIP:127.0.0.1 #这里填代理的IP地址
+ProxyPort:10809 #这里是代理的端口
